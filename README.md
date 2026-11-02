@@ -1,10 +1,10 @@
 <div align="center">
-<a href="https://swayam01.github.io/neuralsplat-docs/"><img src="assets/cover.png" width="620" alt="NeuralSplat Space Studio, User manual"></a>
+<a href="https://sourishc25.github.io/neuralsplat-docs/"><img src="assets/cover.png" width="620" alt="NeuralSplat Space Studio, User manual"></a>
 <h1>Space Studio User Manual</h1>
 <p>Show your customers their own room, tiled and fitted, before a single tile is laid.<br>
 For sales teams, designers and showroom staff. October 2026 edition, 40 pages.</p>
 <p>
-<a href="https://swayam01.github.io/neuralsplat-docs/"><img src="https://img.shields.io/badge/Read_online-3d3a8c?style=for-the-badge" alt="Read online"></a>
+<a href="https://sourishc25.github.io/neuralsplat-docs/"><img src="https://img.shields.io/badge/Read_online-3d3a8c?style=for-the-badge" alt="Read online"></a>
 &nbsp;
 <a href="NeuralSplat-User-Manual.pdf?raw=true"><img src="https://img.shields.io/badge/Download_PDF-d9a441?style=for-the-badge" alt="Download PDF"></a>
 </p>
